@@ -52,25 +52,6 @@
   </tr>
 </table>
 
-<hr>
-
-<h2>📂 Project Structure</h2>
-<pre>
-/
-├── index.html
-├── about.html
-├── products.html
-├── contact.html
-├── assets/
-│   ├── images/
-│   └── icons/
-├── css/
-│   └── style.css
-└── js/
-    └── script.js
-</pre>
-
-<hr>
 
 <h2>🎯 Purpose</h2>
 <p>This website aims to:</p>
