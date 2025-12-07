@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">🌟 SV Foods Pune 🌟</h1>
+<h1 align="center"> 🌟 SVFoodsPune 🌟 </h1>
 <p>
   A clean, modern, and fully responsive <strong>static portfolio website</strong> built for 
   <strong>SVFoodsPune</strong>, showcasing their brand, offerings, and presence in the food industry.
